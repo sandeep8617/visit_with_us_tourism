@@ -1,17 +1,6 @@
-# Hugging Face Hub for interacting with Hugging Face's model and dataset repositories
 huggingface_hub==0.32.6
-
-# Datasets library from Hugging Face, used for loading, processing, and sharing datasets
 datasets==3.6.0
-
-# Pandas for data manipulation and preprocessing (e.g., reading CSV files, data cleaning)
 pandas==2.2.2
-
-# Scikit-learn for machine learning algorithms, model evaluation, and preprocessing (e.g., GridSearchCV, StandardScaler)
 scikit-learn==1.6.0
-
-# XGBoost for gradient boosting models, commonly used for tabular data classification and regression tasks
 xgboost==2.1.4
-
-# MLflow for experiment tracking, model logging, and serving models in production
 mlflow==3.0.1
